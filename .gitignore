@@ -1,0 +1,9 @@
+# Local files and credentials
+.DS_Store
+Thumbs.db
+.env
+.env.*
+!.env.example
+.azure/
+node_modules/
+*.log
